@@ -160,12 +160,4 @@ A native desktop app for pulling and validating RFID movement data from the VOS 
 <br>🖨️ 3D printing functional parts and enclosures
 <br>🏕️ Camping whenever I can get out
 
----
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TylerGates-VOS&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<sub>Most of my work lives in private company repositories, so the graph tells only part of the story.</sub>
-
-</div>
