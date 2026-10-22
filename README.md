@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=Tyler+Gates;Director+of+Engineering+Support+%40+VOS+Systems;RFID+%C2%B7+IoT+%C2%B7+Automation+%C2%B7+Security" alt="Tyler Gates" />
+<h1>Tyler Gates</h1>
+
+<h3>Director of Engineering Support @ VOS Systems</h3>
 
 **I keep RFID and IoT systems running in the field, and build the tools that make that faster.**
 
